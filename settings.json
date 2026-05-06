@@ -1,5 +1,5 @@
 {
-  "name": "Botyara",
+  "name": "Slobot00",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "CupOfMine.aternos.me",
     "port": 42206,
-    "version": "1.21.11",
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
